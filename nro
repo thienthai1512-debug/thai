@@ -5,7 +5,7 @@
   "port": 14445, // port
   "language": 0, // ko wtam
   "typeSv": 1, // 1 long 0 int
-  "homeUrl": "zalo:0866764225", // limk hien thi goc phai khi dang nhap
+  "homeUrl": "2026", // limk hien thi goc phai khi dang nhap
   "logoUrl": "", // link logo
   "isUnLockOptionTemplate": 1, // msg mo gioi han options
   "listPorata": "454, 921, 1852", // danh sach bong tai hop the nhanh theo id
