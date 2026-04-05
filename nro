@@ -1,14 +1,14 @@
 [
 {
-  "nameServer": "NRO 2026", // teen sever
+  "nameServer": "NRO 2026", // tên sever
   "address": "127.0.0.1", // ip sever
   "port": 14445, // port
-"nameServer": "TEST", // teen sever
+"nameServer": "TEST", // tên sever
   "address": "127.0.0.1", // ip sever
   "port": 14446, // port
   "language": 0, // ko wtam
   "typeSv": 1, // 1 long 0 int
-  "homeUrl": "2026.click", // limk hien thi goc phai khi dang nhap
+  "homeUrl": "2026.click", // link hien thi goc phai khi dang nhap
   "logoUrl": "", // link logo
   "isUnLockOptionTemplate": 1, // msg mo gioi han options
   "listPorata": "454, 921, 1852", // danh sach bong tai hop the nhanh theo id
