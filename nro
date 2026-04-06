@@ -3,7 +3,7 @@
   "nameServer": "NRO 2026", // tên sever
   "address": "127.0.0.1", // ip sever
   "port": 14445, // port
-"nameServer": "TEST", // tên sever
+"nameServer": "Chỉ dành cho ADMIN", // tên sever
   "address": "127.0.0.1", // ip sever
   "port": 14446, // port
   "language": 0, // ko wtam
