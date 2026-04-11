@@ -4,7 +4,7 @@
   "address": "103.77.215.0", // ip sever
   "port": 14445, // port
 "nameServer": "Chỉ dành cho ADMIN", // tên sever
-  "address": "103.77.215.0", // ip sever
+  "address": "127.0.0.1", // ip sever
   "port": 14446, // port
   "language": 0, // ko wtam
   "typeSv": 1, // 1 long 0 int
