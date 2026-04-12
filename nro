@@ -8,7 +8,7 @@
   "port": 14446, // port
   "language": 0, // ko wtam
   "typeSv": 1, // 1 long 0 int
-  "homeUrl": "2026.click", // link hien thi goc phai khi dang nhap
+  "homeUrl": "2026.io.vn", // link hien thi goc phai khi dang nhap
   "logoUrl": "", // link logo
   "isUnLockOptionTemplate": 1, // msg mo gioi han options
   "listPorata": "454, 921, 1852", // danh sach bong tai hop the nhanh theo id
